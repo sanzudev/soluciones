@@ -15,7 +15,7 @@ Cada carpeta corresponde a un video. Entrás, copiás, lo usás. Sin vueltas.
 | 05 | [Carrusel con Claude Code + Marp](05-marp-carrusel/) | `MARP` / `MODELO` | Prompt para generar un carrusel de Instagram en Markdown |
 | 06 | [Auditoría de seguridad de tu app](06-seguridad-app/) | `SEGURIDAD` | Prompt para que Claude audite y arregle vulnerabilidades |
 | 07 | [Blindaje legal para tu app](07-blindaje-legal/) | `BLINDAJE` | Prompt para que Claude te diga qué te falta para estar protegido legalmente |
-| 08 | [Sistema de prospección de leads](08-sistema-leads/) | `LEADS` | ⚠️ pendiente de confirmar el sistema (Claude + Apify + n8n) |
+| 08 | [Agente de WhatsApp con AgentKit](08-sistema-leads/) | `LEADS` | Repo open source: Claude Code te arma un agente de WhatsApp completo |
 | 09 | [Pack profesional para tu primer cliente](09-pack-cliente/) | `CLIENTE` | Prompt para armar confirmación, contrato, onboarding y kickoff |
 | 10 | [Handoff de entrega sin dolores de cabeza](10-entrega-handoff/) | `ENTREGA` | Prompt para armar el documento de entrega + guion de video |
 | 11 | [Hacé que Claude sea sincero](11-prompt-sincero/) | `SINCERO` | Reglas para que Claude te frene antes de una mala idea |

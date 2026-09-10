@@ -1,18 +1,38 @@
-# Sistema de prospección: 100+ leads en una hora
+# Agente de WhatsApp con AgentKit
 
 **Video:** "Empezaste un negocio… pero te faltan clientes?" (13 de agosto) · Palabra clave: `LEADS`
 
-## Qué hace
+## Qué es
 
-Le pasás a Claude el perfil de tu cliente ideal y en una hora te trae más de 100 prospectos con nombre, mail y teléfono. Después los contacta en automático con n8n. Resultado real: más de 12 reuniones en una semana.
+Open source. Claude Code te entrevista sobre tu negocio y te genera un agente de WhatsApp completo (código + config + prueba local).
 
-## Cómo funciona (a alto nivel)
+## Requisitos
 
-1. **Scraping de leads**: Claude arma la consulta de búsqueda a partir de tu perfil de cliente ideal y usa una herramienta de scraping (ej. Apify) para traer los datos.
-2. **Enriquecimiento**: por cada prospecto, completa nombre, mail y teléfono disponibles.
-3. **Outreach automático**: n8n toma la lista y manda el primer contacto (mail o WhatsApp) sin que lo hagas a mano.
+- Python 3.11+
+- Claude Code instalado
+- API key de Anthropic
+- Cuenta WhatsApp API (Meta Cloud API o Twilio)
 
-> ⚠️ Santiago: el video menciona Claude + Apify + n8n para armar esto, pero no tengo el prompt exacto ni el workflow de n8n que usás. Si me pasás eso (el prompt de búsqueda, o el JSON del workflow), arreglo esta carpeta con el sistema real en vez de la descripción general.
+## El repo
+
+👉 https://github.com/Hainrixz/whatsapp-agentkit
+
+## Pasos
+
+1. `git clone https://github.com/Hainrixz/whatsapp-agentkit.git`
+2. `cd whatsapp-agentkit`
+3. `bash start.sh`
+4. `claude`
+5. Dentro de Claude Code escribí: `/build-agent`
+6. Respondé las preguntas (negocio, horarios, tono, servicios, etc.)
+7. Probá el agente en el simulador local
+8. Cuando esté bien, conectalo a Meta o Twilio y desplegá
+
+## Importante
+
+- El kit es gratis (MIT).
+- La API de Anthropic se paga por uso.
+- WhatsApp tiene costos según el proveedor (Meta/Twilio).
 
 ## Cómo lo uso en el bot
 
