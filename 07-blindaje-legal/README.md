@@ -13,6 +13,10 @@
 
 Está en [`prompt.txt`](prompt.txt) — se pega en Claude tal cual. No es un PDF con la respuesta: es un prompt que te va guiando pregunta por pregunta y te dice cómo solucionar cada punto.
 
+## Links oficiales
+
+- Agente DMCA / registro de copyright: https://copyright.gov/
+
 ## Cómo lo uso en el bot
 
 Cuando alguien comenta `BLINDAJE`, se le manda este prompt por privado (después de seguir la cuenta).
