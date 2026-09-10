@@ -1,6 +1,6 @@
 # Agente de WhatsApp con AgentKit
 
-**Video:** "Empezaste un negocio… pero te faltan clientes?" (13 de agosto) · Palabra clave: `LEADS` / `TRES`
+**Video:** "Probablemente pierda clientes con esto…" (20 de agosto) · Palabra clave: `KIT` / `TRES`
 
 ## Qué es
 
@@ -36,4 +36,4 @@ Open source. Claude Code te entrevista sobre tu negocio y te genera un agente de
 
 ## Cómo lo uso en el bot
 
-Cuando alguien comenta `LEADS` o `TRES`, se le manda este contenido por privado (después de seguir la cuenta).
+Cuando alguien comenta `KIT` o `TRES`, se le manda este contenido por privado (después de seguir la cuenta).

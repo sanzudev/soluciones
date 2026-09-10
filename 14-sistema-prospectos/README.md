@@ -1,6 +1,6 @@
 # Sistema de prospección: leads + outreach automático
 
-**Video:** "Empezaste un negocio… pero te faltan clientes?" (13 de agosto) · Palabra clave: `PROSPECTOS`
+**Video:** "Empezaste un negocio… pero te faltan clientes?" (13 de agosto) · Palabra clave: `LEADS` / `PROSPECTOS`
 
 ## Qué es
 
@@ -12,4 +12,4 @@ Está en [`prompt.txt`](prompt.txt) — se lo pasás a Claude y empieza pregunta
 
 ## Cómo lo uso en el bot
 
-Cuando alguien comenta `PROSPECTOS`, se le manda este prompt por privado (después de seguir la cuenta).
+Cuando alguien comenta `LEADS` o `PROSPECTOS`, se le manda este prompt por privado (después de seguir la cuenta).
