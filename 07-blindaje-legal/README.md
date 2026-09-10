@@ -11,10 +11,8 @@
 
 ## El prompt
 
-Está en [`prompt.txt`](prompt.txt) — se lo pasás a Claude para que revise tu app y te diga qué te falta de estas 4 cosas.
-
-> ⚠️ **Santiago, este es el más importante de arreglar**: tiene ~150 personas esperando esto desde hace semanas y es contenido legal — quiero que lo revises vos antes de que el bot se lo mande a nadie. Armé el prompt con lo que decís en el caption, pero no tengo el texto exacto que mandás por DM. Si ya tenés uno, pasámelo y reemplazo este archivo tal cual.
+Está en [`prompt.txt`](prompt.txt) — se pega en Claude tal cual. No es un PDF con la respuesta: es un prompt que te va guiando pregunta por pregunta y te dice cómo solucionar cada punto.
 
 ## Cómo lo uso en el bot
 
-Cuando alguien comenta `BLINDAJE`, se le manda este prompt por privado (después de seguir la cuenta). **Todavía no lo activé en el bot** hasta que confirmes el contenido.
+Cuando alguien comenta `BLINDAJE`, se le manda este prompt por privado (después de seguir la cuenta).
