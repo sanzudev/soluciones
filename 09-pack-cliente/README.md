@@ -1,17 +1,11 @@
 # El pack profesional para cuando te dicen que sí
 
-**Video:** "Conseguiste tu primer cliente… Felicidades. Ahora no la arruines." (14 de agosto) · Palabra clave: `CLIENTE`
-
-## El problema
-
-Cuando un cliente potencial dice que sí, la mayoría improvisa por WhatsApp. El proceso siempre es el mismo: confirmación, contrato, pago, onboarding, carpeta y kickoff.
+**Video:** "Conseguiste tu primer cliente… Felicidades. Ahora no la arruines." (14 de agosto) · Palabra clave: `CLIENTE` / `CLIENTES`
 
 ## El prompt
 
-Está en [`prompt.txt`](prompt.txt) — se lo pasás a Claude con el detalle de tu servicio y te arma todo el pack.
-
-> ⚠️ Santiago: armé este prompt con la idea del caption. Si ya tenés el prompt exacto que usás vos, pasámelo y lo reemplazo.
+Está en [`prompt.txt`](prompt.txt) — empieza preguntando por tu negocio antes de generar nada, y arma todo el pack: confirmación, contrato, facturación, onboarding, carpetas, bienvenida, kickoff y checklist.
 
 ## Cómo lo uso en el bot
 
-Cuando alguien comenta `CLIENTE`, se le manda este prompt por privado (después de seguir la cuenta).
+Cuando alguien comenta `CLIENTE` o `CLIENTES`, se le manda este prompt por privado (después de seguir la cuenta).

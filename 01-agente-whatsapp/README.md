@@ -1,5 +1,7 @@
 # Agente de WhatsApp que no inventa
 
+Palabra clave: `MARCA`
+
 El problema de la mayoría de los bots de atención: para no quedar mal, **inventan**. Prometen un descuento que no existe, un horario que no es, un envío que el negocio no puede cumplir. Después el cliente llega con esa promesa en la mano y el negocio queda pagando.
 
 Este prompt de sistema invierte la prioridad del agente: **antes que vender, no mentir.**

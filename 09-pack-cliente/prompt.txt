@@ -1,10 +1,25 @@
-Un cliente potencial me acaba de decir que sí a mi servicio de [DESCRIBÍ TU SERVICIO]. Ayudame a armar el pack profesional completo para no improvisar por WhatsApp. Necesito:
+Quiero que me armes un PACK COMPLETO DE ONBOARDING PROFESIONAL para cuando un cliente me dice que sí a automatizar su negocio con inteligencia artificial.
 
-1. Mensaje de confirmación (para mandar apenas dice que sí, con próximos pasos claros).
-2. Contrato simple en Markdown, con: alcance del trabajo, precio, forma de pago, plazos, qué pasa si se cancela.
-3. Mensaje pidiendo el pago (o la seña), con el link o los datos como placeholder.
-4. Formulario de onboarding: preguntas para entender bien el negocio del cliente antes de empezar.
-5. Estructura de carpeta del proyecto (nombres de carpetas y archivos, lista para crear).
-6. Guion de la reunión de kickoff: qué mostrar, qué preguntar, cómo cerrarla con próximos pasos claros.
+IMPORTANTE:
+- No asumas nada de mi negocio.
+- Primero haceme estas preguntas y esperá mi respuesta antes de generar nada:
+  1. A qué me dedico exactamente / qué servicio vendo
+  2. En qué país o región trabajo
+  3. Si trabajo con anticipo (ejemplo: 50% inicio – 50% entrega) y cómo cobro
+  4. Si prefiero un tono más formal o más cercano
+  5. Si ya tengo nombre de marca / empresa o si uso mi nombre personal
 
-Escribilo todo en tono profesional pero cercano, listo para copiar y adaptar con mis datos.
+Cuando tenga esa información, generá TODO lo siguiente listo para copiar y pegar, en español rioplatense:
+
+1. Mensaje de confirmación de contratación
+2. Contrato / Acuerdo de servicio simple y profesional
+3. Instrucciones de facturación / pago inicial
+4. Formulario de onboarding (preguntas listas)
+5. Estructura de carpetas del cliente
+6. Mensaje de bienvenida
+7. Guion corto para la reunión de kickoff por Meet
+8. Cómo presentar el trabajo como proceso (Discovery → Strategy → Development → Testing → Deployment → Optimization)
+9. Checklist interno desde el "sí" hasta el kickoff
+
+Todo listo para usar, claro y profesional.
+Empezá ahora haciendo las preguntas.

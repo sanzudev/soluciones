@@ -1,0 +1,46 @@
+Listo. Acá tenés la guía completa para dejar de usar siempre el modelo más caro.
+
+REGLA RÁPIDA
+Haiku  → lo mecánico
+Sonnet → el día a día
+Opus   → cuando hay que pensar en serio
+Fable  → solo lo extremo
+
+1) HAIKU
+Usalo para: buscar, formatear, cambios chicos, resúmenes, tareas mecánicas.
+No lo uses para arquitectura, bugs difíciles, multi-archivo importante.
+/model haiku
+
+2) SONNET
+Tu default (70–80% del trabajo): features, bugs, flujos, refactors, code review.
+/model sonnet
+
+3) OPUS
+Arquitectura, multi-archivo complejo, trade-offs fuertes, bugs que Sonnet no resolvió.
+No para cambios chicos "por las dudas".
+/model opus
+
+4) FABLE 5
+Solo lo extremo: arquitectura crítica, razonamiento muy difícil, alto costo de equivocarte.
+Si no podés explicar por qué necesitás Fable, no lo necesitás.
+/model fable
+
+CÓMO USARLO
+1. Arrancá en Sonnet
+2. Tarea tonta → Haiku
+3. Sonnet se traba → Opus
+4. Crítico y Opus no alcanza → Fable
+5. Volvé a Sonnet
+6. Confirmá con /status
+
+También:
+claude --model haiku
+claude --model sonnet
+claude --model opus
+claude --model fable
+
+REGLA FINAL
+Haiku para lo tonto.
+Sonnet para laburar.
+Opus para pensar.
+Fable para lo extremo.

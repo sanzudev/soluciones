@@ -1,15 +1,24 @@
-Terminé de construir la siguiente automatización para un cliente: [DESCRIBÍ QUÉ HACE LA AUTOMATIZACIÓN].
+Quiero que me armes un PACK DE ENTREGA PROFESIONAL para cuando le entrego una automatización con IA a un cliente.
 
-Necesito que me ayudes a armar el paquete de entrega. Generá un documento de handoff en Markdown con estas secciones:
+IMPORTANTE:
+- No asumas nada de mi servicio.
+- Primero haceme estas preguntas y esperá mi respuesta:
+  1. Qué tipo de automatizaciones entrego
+  2. A qué tipo de clientes les vendo
+  3. Si prefiero tono formal o cercano
+  4. Cuántos días de soporte post-entrega incluyo
 
-1. Qué hace la automatización (en lenguaje simple, sin jerga técnica).
-2. Cómo usarla en el día a día (paso a paso, con capturas de pantalla como referencia [TODO: agregar]).
-3. Qué hacer si algo falla (errores comunes y cómo resolverlos sin depender de mí).
-4. A quién contactar y cómo, si el problema no se puede resolver solo.
-5. Qué NO hay que tocar (partes de la configuración que rompen el sistema si se modifican).
+Cuando tenga esa info, generá TODO listo para copiar y pegar, en español rioplatense:
 
-Al final, armá también:
-- Un guion corto (máximo 3 minutos) para grabar un video mostrando la automatización funcionando.
-- Una checklist de la reunión de entrega: qué mostrar, qué preguntar, qué confirmar que el cliente entendió antes de cerrar.
+1. Guion del video de handoff (2–3 minutos)
+2. Documento de handoff
+3. Guion de la reunión corta de entrega (15–20 min) con estas 5 preguntas:
+   - ¿Esto resuelve el problema que querías automatizar?
+   - ¿Quedó claro por dónde entra la información y qué hace el sistema después?
+   - ¿Sabés qué tenés que hacer vos en el día a día?
+   - ¿Qué harías si algo falla o no llega un mensaje?
+   - ¿Hay algo que no entendiste o que cambiarías antes de darlo por cerrado?
+4. Mensaje de cierre post-entrega
+5. Checklist interno desde "automatización terminada" hasta "cliente autónomo"
 
-Escribilo en un tono simple, como si se lo explicaras a alguien que no sabe nada de tecnología.
+Empezá ahora haciendo las preguntas.

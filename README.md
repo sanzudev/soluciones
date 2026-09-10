@@ -8,19 +8,20 @@ Cada carpeta corresponde a un video. Entrás, copiás, lo usás. Sin vueltas.
 
 | # | Solución | Palabra clave | Qué resuelve |
 |---|----------|----------------|--------------|
-| 01 | [Agente de WhatsApp que no inventa](01-agente-whatsapp/) | `KIT` | Un prompt de sistema para que tu bot de atención no prometa cosas que el negocio no puede cumplir |
+| 01 | [Agente de WhatsApp que no inventa](01-agente-whatsapp/) | `MARCA` | Un prompt de sistema para que tu bot de atención no prometa cosas que el negocio no puede cumplir |
 | 02 | [Skill de diseño estilo Apple](02-apple-design-skill/) | `APPLE` | Skill de Claude Code con principios de diseño de Apple |
 | 03 | [Equipo de 42 skills en Claude Code](03-equipo-42-skills/) | `EQUIPO` | ⚠️ pendiente de confirmar el mapa completo |
 | 04 | [5 plugins gratis de Claude Code](04-plugins-favoritos/) | nombre del plugin | Comando de instalación de Superpowers, Frontend Design, Playwright, Ralph Loop o Context7 |
 | 05 | [Carrusel con Claude Code + Marp](05-marp-carrusel/) | `MARP` / `MODELO` | Prompt para generar un carrusel de Instagram en Markdown |
 | 06 | [Auditoría de seguridad de tu app](06-seguridad-app/) | `SEGURIDAD` | Prompt para que Claude audite y arregle vulnerabilidades |
 | 07 | [Blindaje legal para tu app](07-blindaje-legal/) | `BLINDAJE` | Prompt para que Claude te diga qué te falta para estar protegido legalmente |
-| 08 | [Agente de WhatsApp con AgentKit](08-sistema-leads/) | `LEADS` | Repo open source: Claude Code te arma un agente de WhatsApp completo |
-| 09 | [Pack profesional para tu primer cliente](09-pack-cliente/) | `CLIENTE` | Prompt para armar confirmación, contrato, onboarding y kickoff |
+| 08 | [Agente de WhatsApp con AgentKit](08-sistema-leads/) | `LEADS` / `TRES` | Repo open source: Claude Code te arma un agente de WhatsApp completo |
+| 09 | [Pack profesional para tu primer cliente](09-pack-cliente/) | `CLIENTE` / `CLIENTES` | Prompt para armar confirmación, contrato, onboarding y kickoff |
 | 10 | [Handoff de entrega sin dolores de cabeza](10-entrega-handoff/) | `ENTREGA` | Prompt para armar el documento de entrega + guion de video |
 | 11 | [Hacé que Claude sea sincero](11-prompt-sincero/) | `SINCERO` | Reglas para que Claude te frene antes de una mala idea |
-| 12 | [Cuándo usar Haiku, Sonnet u Opus](12-regla-modelos-claude/) | `AGENTE` | Regla simple para no tirar plata usando el modelo equivocado |
+| 12 | [Cuándo usar Haiku, Sonnet, Opus o Fable](12-regla-modelos-claude/) | `AGENTE` | Regla simple para no tirar plata usando el modelo equivocado |
 | 13 | [Clon open source de Higgsfield](13-clon-higgsfield/) | `VIDEO` | Generá imágenes/video/lipsync con IA sin pagar suscripción |
+| 14 | [Sistema de prospección: leads + outreach](14-sistema-prospectos/) | `PROSPECTOS` | Perfil de cliente ideal + scraping con Appify + workflow de n8n |
 
 ## Cómo usar esto
 

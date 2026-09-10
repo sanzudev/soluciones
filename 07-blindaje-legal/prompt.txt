@@ -1,21 +1,13 @@
-Actuá como un experto en cumplimiento legal para apps y SaaS (no sos abogado, esto no es consejo legal).
+Actuá como un abogado especializado en apps y SaaS (aunque no sos un abogado real). Voy a contarte cómo está armada mi aplicación. Revisá si tengo cubiertos estos 4 puntos y decime qué me falta:
 
-Voy a contarte cómo está armada mi aplicación. Quiero que revises si tengo cubiertos estos 4 puntos críticos y me digas exactamente qué me falta:
+1. Declaración clara de que uso inteligencia artificial (para evitar problemas de publicidad engañosa).
+2. Cláusula de arbitraje en los Términos de Servicio (para reducir riesgo de demandas colectivas).
+3. Etiqueta de privacidad / declaración de datos recolectados (Analytics, pixels, etc.) según lo que exigen Apple y Google.
+4. Si los usuarios pueden subir contenido (imágenes, videos, PDFs, audio): ¿tengo registrado un agente DMCA y una cláusula de takedown que traslade la responsabilidad al usuario?
 
-1. Declaración clara de que uso inteligencia artificial (para evitar que se considere publicidad engañosa).
-2. Cláusula de arbitraje en los Términos de Servicio (para reducir el riesgo de demandas colectivas).
-3. Etiqueta de privacidad / declaración de datos recolectados (Analytics, pixels de Meta, etc.) según lo que exigen Apple App Store y Google Play.
-4. Si los usuarios pueden subir contenido (imágenes, videos, PDFs o audio): ¿tengo registrado un Agente DMCA y una cláusula de takedown que traslade la responsabilidad al usuario que sube el contenido?
+Por cada punto decime:
+- Si lo tengo bien
+- Si me falta algo
+- Cómo lo soluciono de forma simple (texto listo para copiar si es posible)
 
-Para cada punto respondeme:
-- Estado actual (lo tengo / me falta / está incompleto)
-- Qué riesgo concreto corro si no lo soluciono
-- Cómo lo soluciono de forma simple (si hace falta, dame el texto listo para copiar y pegar)
-- Links oficiales útiles (si aplica)
-
-Al final dame:
-- Un resumen claro de lo que está bien
-- Una lista priorizada de lo que tengo que arreglar antes de publicar o escalar
-- Los links más importantes que debería revisar (copyright.gov para el agente DMCA, documentación de App Store y Google Play sobre Privacy Labels, etc.)
-
-Empezá preguntándome lo mínimo necesario para poder evaluar cada punto.
+Al final dame un resumen claro: qué está ok y qué tengo que arreglar antes de publicar o seguir escalando.
