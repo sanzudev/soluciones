@@ -9,7 +9,7 @@ Cada carpeta corresponde a un video. Entrás, copiás, lo usás. Sin vueltas.
 | # | Solución | Palabra clave | Qué resuelve |
 |---|----------|----------------|--------------|
 | 01 | [Agente de WhatsApp que no inventa](01-agente-whatsapp/) | `KIT` | Un prompt de sistema para que tu bot de atención no prometa cosas que el negocio no puede cumplir |
-| 02 | [Skill de diseño estilo Apple](02-apple-design-skill/) | `APPLE` | ⚠️ pendiente de confirmar el repo |
+| 02 | [Skill de diseño estilo Apple](02-apple-design-skill/) | `APPLE` | Skill de Claude Code con principios de diseño de Apple |
 | 03 | [Equipo de 42 skills en Claude Code](03-equipo-42-skills/) | `EQUIPO` | ⚠️ pendiente de confirmar el mapa completo |
 | 04 | [5 plugins gratis de Claude Code](04-plugins-favoritos/) | nombre del plugin | Comando de instalación de Superpowers, Frontend Design, Playwright, Ralph Loop o Context7 |
 | 05 | [Carrusel con Claude Code + Marp](05-marp-carrusel/) | `MARP` / `MODELO` | Prompt para generar un carrusel de Instagram en Markdown |
