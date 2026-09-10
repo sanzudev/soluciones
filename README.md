@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/soluciones-14-8b5cf6" alt="14 soluciones">
+  <img src="https://img.shields.io/badge/soluciones-13-8b5cf6" alt="13 soluciones">
   <img src="https://img.shields.io/badge/licencia-MIT-c4b5fd" alt="Licencia MIT">
   <a href="https://instagram.com/sanzu.dev"><img src="https://img.shields.io/badge/Instagram-@sanzu.dev-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
@@ -36,7 +36,6 @@ Proyectos open source que uso y recomiendo.
 | 02 | [Skill de diseño estilo Apple](02-apple-design-skill/) | Skill de Claude Code con los principios de diseño de Apple |
 | 08 | [WhatsApp AgentKit](08-sistema-leads/) | Claude Code te arma un agente de WhatsApp completo |
 | 13 | [Clon open source de Higgsfield](13-clon-higgsfield/) | Imágenes, video y lipsync con IA sin pagar suscripción |
-| 03 | [Equipo de 42 skills en Claude Code](03-equipo-42-skills/) | *(próximamente)* |
 
 ## 📘 Guías
 
