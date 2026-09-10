@@ -4,9 +4,12 @@ Publicar una app hecha con IA sin auditarla es dejarla vulnerable por defecto. E
 
 ## El prompt
 
-Está en [`prompt.txt`](prompt.txt) — se lo pasás a Claude Code para que audite tu proyecto.
+También está en [`prompt.txt`](prompt.txt) para copiar limpio.
 
-## Qué revisa
+```text
+Actuá como un auditor de seguridad para apps hechas con IA.
+Voy a contarte cómo está armada mi aplicación.
+Revisá y buscá problemas típicos:
 
 - Claves de API expuestas
 - Endpoints sin autenticación
@@ -15,4 +18,11 @@ Está en [`prompt.txt`](prompt.txt) — se lo pasás a Claude Code para que audi
 - Falta de rate limiting
 - Información sensible expuesta
 
-Por cada hallazgo te explica qué está mal, por qué es peligroso y cómo corregirlo, y termina con un resumen de qué es crítico, qué es medio y qué está bien.
+Por cada problema decime:
+1. Qué está mal
+2. Por qué es peligroso
+3. Cómo lo corrijo de forma simple (código o pasos si es posible)
+
+Al final dame un resumen: qué está crítico, qué es medio y qué está ok.
+No inventes hallazgos: si no tenés evidencia, decí qué necesitarías ver para confirmarlo.
+```
