@@ -1,0 +1,15 @@
+Terminé de construir la siguiente automatización para un cliente: [DESCRIBÍ QUÉ HACE LA AUTOMATIZACIÓN].
+
+Necesito que me ayudes a armar el paquete de entrega. Generá un documento de handoff en Markdown con estas secciones:
+
+1. Qué hace la automatización (en lenguaje simple, sin jerga técnica).
+2. Cómo usarla en el día a día (paso a paso, con capturas de pantalla como referencia [TODO: agregar]).
+3. Qué hacer si algo falla (errores comunes y cómo resolverlos sin depender de mí).
+4. A quién contactar y cómo, si el problema no se puede resolver solo.
+5. Qué NO hay que tocar (partes de la configuración que rompen el sistema si se modifican).
+
+Al final, armá también:
+- Un guion corto (máximo 3 minutos) para grabar un video mostrando la automatización funcionando.
+- Una checklist de la reunión de entrega: qué mostrar, qué preguntar, qué confirmar que el cliente entendió antes de cerrar.
+
+Escribilo en un tono simple, como si se lo explicaras a alguien que no sabe nada de tecnología.

@@ -1,0 +1,10 @@
+Un cliente potencial me acaba de decir que sí a mi servicio de [DESCRIBÍ TU SERVICIO]. Ayudame a armar el pack profesional completo para no improvisar por WhatsApp. Necesito:
+
+1. Mensaje de confirmación (para mandar apenas dice que sí, con próximos pasos claros).
+2. Contrato simple en Markdown, con: alcance del trabajo, precio, forma de pago, plazos, qué pasa si se cancela.
+3. Mensaje pidiendo el pago (o la seña), con el link o los datos como placeholder.
+4. Formulario de onboarding: preguntas para entender bien el negocio del cliente antes de empezar.
+5. Estructura de carpeta del proyecto (nombres de carpetas y archivos, lista para crear).
+6. Guion de la reunión de kickoff: qué mostrar, qué preguntar, cómo cerrarla con próximos pasos claros.
+
+Escribilo todo en tono profesional pero cercano, listo para copiar y adaptar con mis datos.

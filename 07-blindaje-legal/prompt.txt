@@ -1,0 +1,17 @@
+Quiero que revises si mi app está protegida legalmente en estos 4 puntos. Mi app es: [DESCRIBÍ TU APP: qué hace, a quién le vende, en qué país opera principalmente].
+
+Para cada punto, decime si ya lo tengo, si me falta, y qué texto o acción concreta necesito agregar:
+
+1. **Declaración de uso de IA**: ¿la app usa modelos de IA (generación de texto, imágenes, decisiones automatizadas)? Si es así, ¿dónde y cómo se lo aviso al usuario?
+
+2. **Cláusula de arbitraje**: ¿mis términos de servicio tienen una cláusula que obligue a resolver disputas por arbitraje en vez de demanda judicial directa?
+
+3. **Política de privacidad**: ¿tengo una política de privacidad publicada, accesible, y que describe qué datos recolecto y para qué?
+
+4. **Agente DMCA**: si mi app permite que usuarios suban contenido, ¿tengo designado un agente DMCA y el proceso para recibir reclamos de derechos de autor?
+
+Para cada punto que me falte, dame:
+- El texto exacto (en español) que puedo agregar a mis Términos y Condiciones o Política de Privacidad.
+- Dónde en la app debería estar visible.
+
+Aclaración: esto es una guía de referencia, no asesoría legal formal. Si hay algo que amerite revisión de un abogado local, decímelo explícitamente.

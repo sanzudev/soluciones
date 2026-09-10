@@ -1,0 +1,14 @@
+Quiero que audités la seguridad de esta app antes de que la use más gente. Revisá específicamente:
+
+1. **Autenticación y sesiones**: ¿hay endpoints que deberían requerir login y no lo requieren? ¿los tokens/sesiones expiran?
+2. **Datos sensibles expuestos**: claves de API, secretos o credenciales hardcodeadas en el código o en el frontend.
+3. **Inyección**: SQL injection, command injection, o inputs de usuario que van directo a una consulta o comando sin sanitizar.
+4. **Permisos**: ¿un usuario puede ver o modificar datos de otro usuario cambiando un ID en la URL o en el request?
+5. **Validación de inputs**: formularios o endpoints que confían en datos del cliente sin validar en el servidor.
+6. **Dependencias**: librerías desactualizadas con vulnerabilidades conocidas.
+
+Para cada problema que encuentres:
+- Explicame el riesgo concreto (qué podría pasar si alguien lo explota).
+- Arreglalo directamente en el código si es seguro hacerlo, o proponeme el fix si es una decisión que debo tomar yo.
+
+Al final, dame un resumen corto de qué arreglaste y qué queda pendiente.
