@@ -1,21 +1,17 @@
-# Agente de WhatsApp con AgentKit
+# WhatsApp AgentKit
 
-**Video:** "Probablemente pierda clientes con esto…" (20 de agosto) · Palabra clave: `KIT` / `TRES`
+Open source. Claude Code te entrevista sobre tu negocio y te genera un agente de WhatsApp completo: código, configuración y prueba local incluidos.
 
-## Qué es
+## El repo
 
-Open source. Claude Code te entrevista sobre tu negocio y te genera un agente de WhatsApp completo (código + config + prueba local).
+👉 https://github.com/Hainrixz/whatsapp-agentkit
 
 ## Requisitos
 
 - Python 3.11+
 - Claude Code instalado
 - API key de Anthropic
-- Cuenta WhatsApp API (Meta Cloud API o Twilio)
-
-## El repo
-
-👉 https://github.com/Hainrixz/whatsapp-agentkit
+- Cuenta de WhatsApp API (Meta Cloud API o Twilio)
 
 ## Pasos
 
@@ -34,6 +30,4 @@ Open source. Claude Code te entrevista sobre tu negocio y te genera un agente de
 - La API de Anthropic se paga por uso.
 - WhatsApp tiene costos según el proveedor (Meta/Twilio).
 
-## Cómo lo uso en el bot
-
-Cuando alguien comenta `KIT` o `TRES`, se le manda este contenido por privado (después de seguir la cuenta).
+Si te trabás en algún paso, escribime y te oriento.

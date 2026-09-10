@@ -1,15 +1,15 @@
 # Sistema de prospección: leads + outreach automático
 
-**Video:** "Empezaste un negocio… pero te faltan clientes?" (13 de agosto) · Palabra clave: `LEADS` / `PROSPECTOS`
-
-## Qué es
-
-Un prompt que arma un sistema completo para conseguir y contactar prospectos con IA: perfil de cliente ideal, scraping con Appify, un workflow de n8n para el outreach automático, y un Excel con los prospectos rankeados.
+Un sistema para conseguir y contactar prospectos con IA, de punta a punta: perfil de cliente ideal, scraping con Appify, un workflow de n8n para el outreach automático, y un Excel con los prospectos rankeados.
 
 ## El prompt
 
-Está en [`prompt.txt`](prompt.txt) — se lo pasás a Claude y empieza preguntando por tu rubro y tu cliente ideal antes de armar nada.
+Está en [`prompt.txt`](prompt.txt) — antes de armar nada, te pregunta a qué te dedicás, quién es tu cliente ideal, en qué zona buscás y por qué canal querés contactar.
 
-## Cómo lo uso en el bot
+## Qué te entrega
 
-Cuando alguien comenta `LEADS` o `PROSPECTOS`, se le manda este prompt por privado (después de seguir la cuenta).
+1. Perfil de cliente ideal
+2. Cómo usar Appify para scrapear (Google Maps / redes) según tu caso
+3. El workflow de n8n completo, listo para importar, con las credenciales que necesitás y un template de mail personalizado
+4. Un Excel con los prospectos (nombre, empresa, email, teléfono, ciudad, por qué sirve, score)
+5. Los prospectos ordenados del mejor al peor

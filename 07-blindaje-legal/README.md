@@ -1,22 +1,16 @@
 # Blindaje legal para tu app (antes de que te demanden)
 
-**Video:** "Si lanzaste tu app y no hiciste estas 4 cosas… te pueden demandar." (12 de agosto, el más viral: 3748 likes, 147 comentarios) · Palabra clave: `BLINDAJE`
+Hay 4 cosas que la mayoría de las apps hechas con IA se saltean, y que pueden terminar en una demanda:
 
-## Las 4 cosas
-
-1. Declarar que la app usa IA.
-2. Cláusula de arbitraje.
+1. Declarar que la app usa inteligencia artificial.
+2. Cláusula de arbitraje en los Términos de Servicio.
 3. Etiqueta / política de privacidad.
-4. Agente DMCA designado.
+4. Agente DMCA designado (si los usuarios pueden subir contenido).
 
 ## El prompt
 
-Está en [`prompt.txt`](prompt.txt) — se pega en Claude tal cual. No es un PDF con la respuesta: es un prompt que te va guiando pregunta por pregunta y te dice cómo solucionar cada punto.
+Está en [`prompt.txt`](prompt.txt) — se pega en Claude tal cual. No es un PDF con la respuesta lista: es un prompt que te va guiando punto por punto y te dice cómo solucionar lo que falte.
 
 ## Links oficiales
 
 - Agente DMCA / registro de copyright: https://copyright.gov/
-
-## Cómo lo uso en el bot
-
-Cuando alguien comenta `BLINDAJE`, se le manda este prompt por privado (después de seguir la cuenta).

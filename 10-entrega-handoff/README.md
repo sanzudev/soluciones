@@ -1,11 +1,15 @@
 # Cómo entregar una automatización sin que el cliente te escriba todos los días
 
-**Video:** "Ojalá alguien me hubiera dicho esto antes de entregar mi primera automatización..." (15 de agosto) · Palabra clave: `ENTREGA`
+Una automatización puede funcionar perfecto y aun así fallar como entrega: si el cliente no sabe usarla, te termina escribiendo todos los días. Este prompt arma un proceso de entrega fijo, para que eso no pase.
 
 ## El prompt
 
-Está en [`prompt.txt`](prompt.txt) — pregunta por tu servicio antes de generar nada, y arma: guion del video de handoff, documento de handoff, guion de la reunión de entrega, mensaje de cierre y checklist interno.
+Está en [`prompt.txt`](prompt.txt) — antes de generar nada, te pregunta qué entregás y a quién, para adaptar todo a tu caso.
 
-## Cómo lo uso en el bot
+## Qué te entrega
 
-Cuando alguien comenta `ENTREGA`, se le manda este prompt por privado (después de seguir la cuenta).
+1. Guion del video de handoff (2–3 minutos)
+2. Documento de handoff
+3. Guion de la reunión corta de entrega (15–20 min)
+4. Mensaje de cierre post-entrega
+5. Checklist interno desde "automatización terminada" hasta "cliente autónomo"
