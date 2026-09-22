@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/soluciones-13-8b5cf6" alt="13 soluciones">
+  <img src="https://img.shields.io/badge/soluciones-14-8b5cf6" alt="14 soluciones">
   <img src="https://img.shields.io/badge/licencia-MIT-c4b5fd" alt="Licencia MIT">
   <a href="https://instagram.com/sanzu.dev"><img src="https://img.shields.io/badge/Instagram-@sanzu.dev-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
@@ -19,6 +19,7 @@ Se pegan tal cual en Claude o Claude Code.
 | # | Solución | Qué resuelve |
 |---|----------|--------------|
 | 01 | [Agente de WhatsApp que no inventa](01-agente-whatsapp/) | Un prompt de sistema para que tu bot de atención no prometa cosas que el negocio no puede cumplir |
+| 03 | [Subagentes en Codex](03-subagentes-codex/) | Un prompt para auditar, revisar o mejorar un proyecto con varios agentes especializados trabajando en paralelo |
 | 05 | [Carrusel con Claude Code + Marp](05-marp-carrusel/) | Genera un carrusel de Instagram en Markdown |
 | 06 | [Auditoría de seguridad de tu app](06-seguridad-app/) | Claude audita tu código y arregla las vulnerabilidades |
 | 07 | [Blindaje legal para tu app](07-blindaje-legal/) | Te dice qué te falta para estar protegido legalmente |
