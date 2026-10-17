@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/soluciones-14-8b5cf6" alt="14 soluciones">
+  <img src="https://img.shields.io/badge/soluciones-15-8b5cf6" alt="15 soluciones">
   <img src="https://img.shields.io/badge/licencia-MIT-c4b5fd" alt="Licencia MIT">
   <a href="https://instagram.com/sanzu.dev"><img src="https://img.shields.io/badge/Instagram-@sanzu.dev-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
@@ -46,6 +46,7 @@ Pasos y comandos, no un prompt suelto.
 |---|----------|--------------|
 | 04 | [5 plugins gratis de Claude Code](04-plugins-favoritos/) | Comandos de instalación de Superpowers, Frontend Design, Playwright, Ralph Loop y Context7 |
 | 12 | [Cuándo usar Haiku, Sonnet, Opus o Fable](12-regla-modelos-claude/) | Guía simple para no tirar plata usando el modelo equivocado |
+| 15 | [Que Claude no se ponga tonto en chats largos](15-sesion-claude/) | 3 pasos y un prompt de resumen para no perder precisión ni gastar tokens de más |
 
 ## Cómo usar esto
 

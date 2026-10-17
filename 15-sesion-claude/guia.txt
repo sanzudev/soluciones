@@ -1,0 +1,24 @@
+CÓMO EVITAR QUE CLAUDE SE PONGA TONTO EN CHATS LARGOS
+
+Cuando un chat se alarga, Claude pierde precisión y te gasta más tokens (se le dice "context rot"). La solución son tres pasos.
+
+PASO 1 — UN TEMA, UN CHAT
+Cada tema nuevo va en un chat nuevo. No sigas en el mismo chat de la mañana a la noche.
+
+PASO 2 — CERRÁ CADA TEMA CON UN RESUMEN
+Antes de dejar un chat, pegale este prompt. Guardá la respuesta como un archivo .md y pegala como primer mensaje del chat nuevo.
+
+----- PROMPT DEL RESUMEN -----
+Antes de cerrar esta conversación, armame un resumen en formato .md para continuar en un chat nuevo. Incluí:
+
+1. Objetivo: qué estamos intentando lograr, en una frase.
+2. Hecho: qué quedó resuelto y funcionando.
+3. Decisiones: qué elegimos y por qué, para no volver a discutirlo.
+4. Pendiente: qué falta, en orden.
+5. Contexto clave: archivos, datos o restricciones que el próximo chat tiene que saber.
+
+Sé breve y concreto. Escribilo para que lo pegue tal cual como primer mensaje de un chat nuevo.
+----- FIN DEL PROMPT -----
+
+PASO 3 — LO QUE NO CAMBIA, EN UN PROYECTO
+Si siempre le explicás lo mismo (reglas, tono, contexto de tu negocio), no lo repitas en cada chat: cargalo una sola vez en un Proyecto de Claude, como instrucciones o archivos, y abrí tus chats adentro. Cada chat nuevo del proyecto arranca con ese contexto.
