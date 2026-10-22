@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/soluciones-15-8b5cf6" alt="15 soluciones">
+  <img src="https://img.shields.io/badge/soluciones-16-8b5cf6" alt="16 soluciones">
   <img src="https://img.shields.io/badge/licencia-MIT-c4b5fd" alt="Licencia MIT">
   <a href="https://instagram.com/sanzu.dev"><img src="https://img.shields.io/badge/Instagram-@sanzu.dev-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
@@ -27,6 +27,7 @@ Se pegan tal cual en Claude o Claude Code.
 | 10 | [Handoff de entrega sin dolores de cabeza](10-entrega-handoff/) | El documento de entrega y el guion del video, listos |
 | 11 | [Hacé que Claude sea sincero](11-prompt-sincero/) | Reglas para que Claude te frene antes de una mala idea |
 | 14 | [Sistema de prospección: leads + outreach](14-sistema-prospectos/) | Perfil de cliente ideal + scraping con Appify + workflow de n8n |
+| 16 | [Dos Claudes mejor que uno: el revisor](16-revisor-claude/) | Un prompt para que otro Claude revise el trabajo de cero y encuentre los errores antes que vos |
 
 ## 🔗 Repos y herramientas
 

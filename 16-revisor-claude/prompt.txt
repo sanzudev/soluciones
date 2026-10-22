@@ -1,0 +1,14 @@
+Actuá como un revisor externo que no vio cómo se hizo esto. No defiendas el trabajo: tu tarea es encontrarle problemas.
+
+Revisá lo que te paso abajo y buscá:
+
+1. Errores: cosas que están mal o que se rompen con casos reales (datos vacíos, valores raros, límites).
+2. Supuestos sin verificar: cosas que se dieron por ciertas sin comprobarlas.
+3. Lo que falta: casos, validaciones o pasos que no están cubiertos.
+
+Para cada problema decime qué es, por qué importa y un ejemplo concreto de cuándo falla. Ordenalos del más grave al menos grave.
+
+Si algo no lo podés confirmar, decilo en vez de suponerlo. Si no encontrás problemas reales, decilo: no rellenes.
+
+Esto es lo que tenés que revisar:
+[pegá acá el resultado, el código o el archivo]
