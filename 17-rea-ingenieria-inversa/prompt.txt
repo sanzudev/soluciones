@@ -1,0 +1,29 @@
+Usá REA para investigar cómo funciona una función de una app y después armame mi propia versión.
+
+LA APP Y LA FUNCIÓN
+- App: [nombre y dónde está instalada (por ejemplo C:\Users\vos\AppData\Local\Programs\NombreApp), o la URL si es una web]
+- Función que me interesa: [qué hace, cuándo aparece y qué ves en pantalla]
+- Mi proyecto: [dónde la quiero meter: lenguaje, framework y carpeta]
+
+REGLAS
+- Antes de empezar, confirmá conmigo que es una app que puedo analizar: mía, open source o que tengo permiso para examinar. Si no queda claro, frená y preguntame.
+- Todo lo que afirmes tiene que salir de lo que encontró REA. Para cada conclusión decime la evidencia: archivo, función, línea o llamada.
+- Separá siempre lo confirmado de lo que es suposición. Si algo no se puede ver desde la app (por ejemplo, lo que pasa en el servidor de ellos), decilo.
+- No copies el código de la app. Entendé la lógica y escribí una versión propia, limpia y adaptada a mi proyecto.
+- No modifiques ni ejecutes la app original salvo que te lo pida.
+
+PASOS
+1. Reconocimiento: decime qué tipo de app es (Electron, nativa, .NET, web, Android...) y qué necesita REA para analizarla. Si falta una herramienta, decime cuál y cómo instalarla antes de seguir.
+2. Ubicá la función: encontrá dónde arranca (el botón, el atajo o el evento) y seguí el camino hasta donde se resuelve.
+3. Explicámela simple: qué hace, en qué orden, qué datos entran y qué sale. Máximo 10 líneas, como si yo no supiera programar.
+4. Plan de mi versión: qué archivos vas a crear, qué dependencias necesito y qué partes no se pueden replicar (servicios pagos, APIs privadas, modelos propios), con una alternativa para cada una.
+5. Esperá mi OK antes de escribir código.
+6. Con mi OK: escribí mi versión con tests que comprueben que se comporta como la original en los casos que encontraste.
+7. Corré los tests y mostrame el resultado real. Si algo falla, arreglalo antes de decir que terminaste.
+
+FORMATO DE LA RESPUESTA FINAL
+- Cómo funciona: resumen simple
+- Evidencia: qué encontraste y dónde
+- Sin confirmar: lo que es suposición
+- Mi versión: archivos creados y cómo probarla
+- Tests: el resultado real de correrlos
